@@ -20,4 +20,9 @@
    • ⭐ Patient Feedback Insights — Aggregated satisfaction scores for service evaluation.  
    • 📅 Dynamic Date Range Filtering — Enables time-based analysis of hospital workflow.  
    • 👤 Patient-Level Filtering — Drill-down capability for detailed record analysis.  
-   • 📊 Executive-Ready Visualization — Clean layout for quick clinical and administrative insights.  
+   • 📊 Executive-Ready Visualization — Clean layout for quick clinical and administrative insights.
+
+5. Screenshot
+
+   <img width="880" height="487" alt="image" src="https://github.com/user-attachments/assets/03c5587e-1b7f-48d7-ac96-55f9fabf8118" />
+
